@@ -1,7 +1,7 @@
 # biomedical-assignment1
 <div align="center">
   <a href="https://your-university-link.com/">
-    <img src="img/logounige.jpg" width="20%" height="20%" title="University of Genoa" alt="University of Genoa">
+    <img src="img/Img.png" width="20%" height="20%" title="University of Genoa" alt="University of Genoa">
   </a>
 </div>
 
